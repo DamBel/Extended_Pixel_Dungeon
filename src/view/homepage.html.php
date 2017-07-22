@@ -9,14 +9,16 @@
 <body>
 
 	<div class="text-center">
+		<h1 id="maintitle"> Welcome to Extended Pixel Dungeon's website ! </h1>
 	  	<img src="./resources/img/extended_pixel_dungeon_logo.png" class="rounded">
-	  	<h1 id="maintitle"> A new Pixel Dungeon adventure awaits you! </h1>
+	  	<h2> A new Pixel Dungeon adventure awaits you! </h2>
 	  	<br>
-	  	<h2> Coming soon on Android! </h2>
+	  	<h3> Coming soon on Android! </h3>
+	  	<br>
 	  	<h3> Check out this website to discover more! </h3>
 	  	<br>
 	  	<br>
-	  	<h1> ________________________________________ </h1> 
+	  	<hr class="epd_delimiter"> 
 	  	<br>
 	  	<h2> Latest update : V0.x.x</h2>
 	</div>

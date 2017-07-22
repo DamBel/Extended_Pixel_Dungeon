@@ -24,7 +24,7 @@ if (isset($_GET["name"])){
 		default: require_once("./view/404.html.php"); break;
 	}
 } else {
-	require_once("./src/view/homepage.html.php");
+	require_once("./view/homepage.html.php");
 
 }
 
