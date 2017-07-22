@@ -11,7 +11,7 @@
 		$object = $_POST["object"];
 		$message = $_POST["message"];
 
-		header("Location: mailto:d.bellintani@laposte.net?subject=".$object."&body=".$message);
+		header("Location: mailto:me@me.com?subject=".$object."&body=".$message);
 
 		return true;
 

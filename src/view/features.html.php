@@ -1,6 +1,6 @@
 <?php
 
-	$_SESSION["title"] = "TestPixel - Features";
+	$_SESSION["title"] = "Extended Pixel Dungeon - Features";
 	require_once("header.html.php");
 
 ?>

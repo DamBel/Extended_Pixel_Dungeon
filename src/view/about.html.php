@@ -1,6 +1,6 @@
 <?php
 
-	$_SESSION["title"] = "TestPixel - About";
+	$_SESSION["title"] = "Extended Pixel Dungeon - About";
 	require_once("header.html.php");
 
 ?>
@@ -10,11 +10,6 @@
 <?php
 
 	$_SESSION["current"] = basename(__FILE__);
-
-	//echo $_SESSION["current"];
-
-	//var_dump($_SESSION);
-
 	require_once("navBar.html.php");
 
 ?>
@@ -47,12 +42,12 @@
 	-->
 	<div class="form-group row">
 	    <label>Your message</label>
-	    <textarea class="form-control" id="exampleTextarea" rows="5" name="message" placeholder="My fabulous message..." required></textarea>
+	    <textarea class="form-control" id="exampleTextarea" rows="5" name="message" placeholder="Your fabulous message..." required></textarea>
 	</div>
 	<div class="form-check">
 		<label class="form-check-label">
 	    	<input id="checkbox_formAbout" type="checkbox" class="form-check-input" required>
-	    <p style="display: inline; vertical-align: text-bottom;">I'm not a robot!</p>
+	    <p style="display: inline; vertical-align: text-bottom;">I'm not a robot !</p>
 	    </label>
 	</div>
 	<button id="button_formAbout" type="submit" class="btn btn-primary">Submit</button>

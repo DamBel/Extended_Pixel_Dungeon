@@ -27,13 +27,13 @@
  <nav class="navbar navbar-inverse" style="border-radius: 0px;">
   <div class="container-fluid">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#testPixelNavBar">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#epdNavBar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
     </div>
-    <div class="collapse navbar-collapse" id="testPixelNavBar">
+    <div class="collapse navbar-collapse" id="epdNavBar">
       <ul class="nav navbar-nav">
 
       <?php

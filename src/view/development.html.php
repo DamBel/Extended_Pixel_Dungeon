@@ -1,6 +1,6 @@
 <?php
 
-	$_SESSION["title"] = "TestPixel - Development";
+	$_SESSION["title"] = "Extended Pixel Dungeon - Development";
 	require_once("header.html.php");
 
 ?>
@@ -72,7 +72,5 @@ require_once("navBar.html.php");
 </div>
 
 <?php
-
 	require_once("footer.html");
-
 ?>

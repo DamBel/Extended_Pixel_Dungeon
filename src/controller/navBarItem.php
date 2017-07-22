@@ -80,8 +80,8 @@ class navBarItem {
 
 		}
 
-		//return "<li" . $active . "><a href='/testPixel/src/" . $this->file . "'>" . $this->name . "</a></li>";
-		return "<li" . $active . "><a href='/testPixel/src?name=" . $this->name . "'/>" . $this->name . "</a></li>";
+		//return "<li" . $active . "><a href='/Extended_Pixel_Dungeon/src/" . $this->file . "'>" . $this->name . "</a></li>";
+		return "<li" . $active . "><a href='/Extended_Pixel_Dungeon/src?name=" . $this->name . "'/>" . $this->name . "</a></li>";
 
 	}
 }

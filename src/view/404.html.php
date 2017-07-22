@@ -1,6 +1,6 @@
 <?php
 
-	$_SESSION["title"] = "404 - Unidentified page";
+	$_SESSION["title"] = "Extended Pixel Dungeon - 404";
 	$_SESSION["current"] = basename(__FILE__);
 	$_SESSION["page"] = "404";
 	require_once("header.html.php");
