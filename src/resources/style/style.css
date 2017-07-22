@@ -1,0 +1,52 @@
+#sheep:hover{
+	
+}
+
+#checkbox_formAbout{
+	margin-left: -1em;
+	cursor: pointer;
+}
+
+#button_formAbout{
+	margin-left: -1em;
+	margin-top: 1em;
+	background-color: #e50d00;
+	border-color: #f21d10;
+	border-radius: 2px;
+}
+
+#title_formAbout{
+	margin-left: -19px;
+}
+
+#myFooter{
+	position:absolute;
+	right:0;
+	left:0;
+	bottom:0;
+	padding:1rem;
+}
+
+#maintitle, #title{
+	font-size:48px;
+	margin-top:1em;
+	margin-bottom:2em;
+}
+
+.link{
+	color:#0ead00;
+}
+
+/*
+#title{
+	font-size:48px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top:1em;
+	margin-bottom:2em;
+	margin-right: 15em;
+	margin-left:15em;
+	border-style: solid;
+	border-color: white;
+}
+*/
