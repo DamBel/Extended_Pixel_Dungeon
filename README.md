@@ -4,7 +4,7 @@ Welcome to Extended Pixel Dungeon website !
 
 ## What is it ?
 
-This is the website which will be used in the future in order to introduce my future mod, "Extended Pixel Dungeon" (looking for a better name by the way ! ), and showcase its features and updates.
+This is the website which will be used in the future in order to introduce my future mod, "Extended Pixel Dungeon" (looking for a better name :p ), and showcase its features and updates.
 
 Currently in its very first version, the website is not ready and is still in development.
 
