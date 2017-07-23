@@ -10,7 +10,7 @@ Currently in its very first version, the website is not ready and is still in de
 
 ## Tell me more about this project ! 
 
-This mod will mostly concentrate on adding more floors, items, and mechanics, while staying close to the original game, **Pixel Dungeon**, made by **watabou**. 
+This mod will mostly concentrate on adding more floors, items, and mechanics, while staying close to the original game, **[Pixel Dungeon](https://github.com/watabou/pixel-dungeon)**, made by **[watabou](http://pixeldungeon.watabou.ru/)**. 
 
 The development is still waiting to begin, since I'm not that familiar with game development at all ! But little by little, I'm improving in learning how the base game works, and I hope I will start working on it very soon ! :)
 
